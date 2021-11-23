@@ -1,2 +1,2 @@
-# Projeto utlizando Bootstrap
+# Projeto utilizando Bootstrap
 Projeto utlizando Bootstrap
