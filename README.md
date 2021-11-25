@@ -1,2 +1,1 @@
-# Projeto utilizando Bootstrap
-Projeto utlizando Bootstrap
+Neste projeto foi desenvolvido um site responsívo com a utlizaçã de Bootstrap
